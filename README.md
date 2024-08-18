@@ -204,8 +204,8 @@ This section describes the data pipeline architecture.
 ### **منابع و مطالعه بیشتر: ادامه یادگیری**
 
 **کتاب‌ها و مقالات:**
-- [Designing Data-Intensive Applications](https://dataintensive.net/)
-- [The Data Engineering Cookbook](https://www.dataengineeringcookbook.com/)
+- [Designing Data-Intensive Applications](https://datasguide.com/)
+- [The Data Engineering Cookbook](https://datasguide.com/)
 
 **دوره‌های آموزشی:**
 - دوره‌های Coursera و Udacity در زمینه مهندسی داده
